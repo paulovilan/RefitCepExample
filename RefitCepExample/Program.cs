@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace RefitCepExample
 {
-	class Program
+	class Program //Classe principal
 	{
 		static async Task Main(string[] args)
 		{
